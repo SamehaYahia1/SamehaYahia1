@@ -23,48 +23,48 @@ class SamehaYahia {
 }
 
 ```
-## 🔥 Highlights
+## ✨ Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+📱 Building real-world Flutter apps 
+
+🔐 Exploring cybersecurity concepts (encryption, hashing, secure data flow)
+
+💾 Experienced with Firebase, authentication, and real-time notifications
+
+💡 Passionate about clean code, UI/UX, and creating meaningful user experiences
+
+💬 Always open to collaborations, open-source projects, and learning new tools
 
 ---
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,cs,git,github,vscode,visualstudio,firebase,postman,figma" /> </p>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samehayehia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samehayehia&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
 ---
 
-## 🎬 My YouTube Focus
+## 🧠 What I’m Currently Learning
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+🔹 Advanced Flutter animations and UI state management
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+🔹 Building secure APIs with ASP.NET Web API
 
+🔹 Basics of cryptography (RSA, AES, and hashing)
+
+🔹 Using Docker and cloud storage for app deployment
 ---
 
 
 
 ## ⚡️ Motto
 
-> **“Let’s simplify learning, one line of code at a time.”**
+“Code with logic, design with care, and learn with curiosity.”
+
+<p align="center">⭐️ From <a href="https://github.com/samehayehia">Sameha Yahia</a></p> ```
 
