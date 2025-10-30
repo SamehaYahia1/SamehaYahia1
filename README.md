@@ -39,13 +39,9 @@ class SamehaYahia {
 
 ## 🧰 Tech Toolbox
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,cs,git,github,vscode,visualstudio,firebase,postman,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,vscode,visualstudio,firebase,postman,figma" /> </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samehayehia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samehayehia&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
 ---
 
@@ -64,7 +60,5 @@ class SamehaYahia {
 
 ## ⚡️ Motto
 
-“Code with logic, design with care, and learn with curiosity.”
-
-<p align="center">⭐️ From <a href="https://github.com/samehayehia">Sameha Yahia</a></p> ```
+“Code with logic, design with care, and learn with curiosity.
 
