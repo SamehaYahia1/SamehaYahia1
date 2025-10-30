@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sameha-yahia"><img src="https://img.shields.io/badge/Sameha%20Yahia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/samehayehia"><img src="https://img.shields.io/badge/GitHub-samehayehia-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:samehayehia@gmail.com"><img src="https://img.shields.io/badge/Email-samehayehia%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:samehayehia02@gmail.com"><img src="https://img.shields.io/badge/Email-samehayehia%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
