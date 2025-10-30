@@ -39,7 +39,7 @@ class SamehaYahia {
 
 ## 🧰 Tech Toolbox
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,vscode,visualstudio,Androidstudio,firebase,postman,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,vscode,visualstudio,androidstudio,firebase,postman,figma" /> </p>
 
 ---
 
