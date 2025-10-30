@@ -60,5 +60,5 @@ class SamehaYahia {
 
 ## ⚡️ Motto
 
-“Code with logic, design with care, and learn with curiosity.
+Code with logic, design with care, and learn with curiosity.
 
