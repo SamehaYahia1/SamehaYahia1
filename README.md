@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Sameha Yahia 👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h3 align="center">Flutter Developer 💙 | Aspiring Cybersecurity Learner 🔐 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sameha-yahia"><img src="https://img.shields.io/badge/Sameha%20Yahia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/samehayehia"><img src="https://img.shields.io/badge/GitHub-samehayehia-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:samehayehia@gmail.com"><img src="https://img.shields.io/badge/Email-samehayehia%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,19 +14,14 @@
 ## 🚀 About Me
 
 ```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
+class SamehaYahia {
+  String role = "Flutter Developer";
+  List<String> languages = ["Dart", "C++", "Python", "Java"];
+  List<String> tools = ["VS Code", "Visual Studio", "Firebase", "Git", "Postman"];
+  List<String> learning = ["Cybersecurity Basics", "Hashing", "RSA", "AES"];
+  String goal = "To build creative mobile apps & grow into a full-stack Flutter developer.";
 }
+
 ```
 ## 🔥 Highlights
 
